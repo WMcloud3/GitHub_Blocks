@@ -1,0 +1,37 @@
+img {
+    width: 200px;
+}
+.container {
+    height: 900px;
+    width: 900px;
+}
+#title {
+    height: 200px;
+    width: 800px;
+    background-color: black;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+#tv {
+    height: 200px;
+    width: 800px;
+    background-color: black;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+#bros {
+    height: 200px;
+    width: 800px;
+    background-color: white;
+    justify-content: space-around;
+    display: flex;
+}
+#music {
+    height: 200px;
+    width: 800px;
+    background-color: red;
+    justify-content: space-around;
+    display: flex;
+}
